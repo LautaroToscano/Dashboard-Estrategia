@@ -6,7 +6,7 @@ Planilla de Google Sheets que se actualiza sola durante la rueda y muestra, para
 - **Riesgo País**: retornos de Globales (ley NY) y Bonares (ley AR) ante distintos escenarios de riesgo país.
 - **Carry trade**: retorno en USD de cada letra según el tipo de cambio al vencimiento y dólar breakeven.
 
-👉 **[Ver la planilla en vivo](PEGAR_ACA_EL_LINK_DE_LA_PLANILLA)** (solo lectura)
+👉 **[Ver la planilla en vivo](https://docs.google.com/spreadsheets/d/15XMFrllATr5c0XjYJAk8p-aHXlKMM7F09t_hEUgt_VE/edit?usp=sharing)** (solo lectura)
 
 ![Carry trade: retorno en USD por LECAP según el dólar al vencimiento](carry.png)
 
